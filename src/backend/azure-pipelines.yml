@@ -9,9 +9,9 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: ''
-  projectName: ''
-  resourceGroupName: ''
+  azureSubscription: 'c1baa1de-d9b9-42d5-8197-e3dba4a74e57'
+  projectName: 'ka-busoiness-process-automation'
+  resourceGroupName: 'ODL-GenAI-CL-1373085-01'
   location: 'eastus'
   repositoryUrl: 'https://github.com/<>/bpa-engine-frontend'
   repositoryToken: ''
